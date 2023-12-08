@@ -1,0 +1,1522 @@
+15860	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Pueblo	La Magdalena Mixiuhca
+15870	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aaron SAenz
+15900	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Jardín Balbuena
+15960	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Del Parque
+15970	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	AeronAutica Militar
+15980	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	24 de Abril
+15990	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Alvaro Obregon
+16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Concepcion Tlacoapa
+16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Antonio
+16000	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Juan
+16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Bosque Residencial del Sur
+16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Las Peritas
+16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Paseos del Sur
+16010	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Bartolo El Chico
+16020	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Juan Tepepan
+16020	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa María Tepepan
+16029	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion Tepepan
+16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Huichapan
+16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Noria
+16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Potrero de San Bernardino
+16030	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion La Noria
+16034	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	18
+16035	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Lorenzo La Cebada
+16035	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Rinconada Coapa
+16036	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Equipamiento	Mercado de Flores Plantas y Hortalizas
+16038	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion San Marcos Norte
+16040	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Asuncion
+16040	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Lorenzo
+16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Jardines del Sur
+16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Marcos
+16050	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tierra Nueva
+16059	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Pblo. Stgo.Tepalcatlalpan, U. H. Rinconada del Sur
+16060	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Mirador
+16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Belen
+16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	El Rosario
+16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Guadalupita
+16070	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Santa Crucita
+16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Santísima
+16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Cristobal
+16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Diego
+16080	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Esteban
+16083	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Caltongo
+16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Pedro
+16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tablas de San Lorenzo
+16090	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Xaltocan
+16100	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa Cruz Xochitepec
+16200	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santiago Tepalcatlalpan
+16210	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Concha
+16240	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Tlaxopan
+16300	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Lucas Xochimanca
+16310	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	La Cañada
+16320	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Lucas Oriente
+16340	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Texmic
+16400	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Lorenzo Atemoaya
+16410	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Lomas de Tonalco
+16420	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Jeronimo
+16428	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Jazmín
+16429	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Rancho Tejomulco
+7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva TenochtitlAn
+7899	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Malinche
+7900	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuchilla del Tesoro
+7910	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon VII Seccion
+7918	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon VI Seccion
+7919	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Ejido San Juan de Aragon Sector 32
+7920	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	El Olivo
+7920	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon
+7930	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Indeco
+7939	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroes de Chapultepec
+7940	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Ejido San Juan de Aragon Sector 33
+7950	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Pueblo	San Juan de Aragon
+7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroes de Cerro Prieto
+7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ex Escuela de Tiro
+7960	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Fernando Casas AlemAn
+7969	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon I Seccion
+7969	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon II Seccion
+7970	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon III Seccion
+7979	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon IV Seccion
+7979	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Juan de Aragon V Seccion
+7980	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Narciso Bassols
+7990	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	C.T.M. Aragon
+8000	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Bramadero
+8010	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Ex-Ejido de La Magdalena Mixiuhca
+8020	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Ampliacion Gabriel Ramos MillAn
+8030	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Cuchilla
+8040	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Carlos Zapata Vela
+8100	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Agrícola PantitlAn
+8200	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Viaducto Piedad
+8210	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Nueva Santa Anita
+8220	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Pedro
+8230	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Francisco Xicaltongo
+8240	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santiago Norte
+8300	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Santa Anita
+8310	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	La Cruz
+8320	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Fraccionamiento Coyuya
+8400	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Granjas Mexico
+8420	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Cuchilla Agrícola Oriental
+8500	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Agrícola Oriental
+8510	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	El Rodeo
+8600	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	La Asuncion
+8610	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Zapotla
+8620	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Los Reyes
+8650	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	San Miguel
+8700	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Juventino Rosas
+8710	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Tlazintla
+8720	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn Seccion Tlacotal
+8730	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Gabriel Ramos MillAn
+8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	INPI Picos
+8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 2A
+8760	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 1B
+8770	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Los Picos de Iztacalco Seccion 1A
+8800	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santiago Sur
+10370	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Palmas
+10378	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Atacaxco
+10379	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Vista Hermosa
+10380	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barros Sierra
+10400	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Jeronimo Aculco
+10500	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barrio San Francisco
+10580	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Barranca Seca
+10600	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Rosal
+10610	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Toro
+10620	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Potrerillo
+10630	Ciudad de Mexico	La Magdalena Contreras		Campamento	El Ocotal
+10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Carbonera
+10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Pueblo Nuevo Alto
+10640	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Pueblo Nuevo Bajo
+10660	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Ermitaño
+10700	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Heroes de Padierna
+10710	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Santa Teresa
+10800	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Cruz
+10810	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Francisco
+10820	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Guadalupe
+10830	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Concepcion
+10840	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Barrio	Las Calles
+10840	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Barrio	Plazuela del Pedregal
+10900	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	San NicolAs Totolapan
+10910	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	La Magdalena
+10920	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Las Huertas
+10926	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Campamento	Tierra Colorada
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec I Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VIII Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec II Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec III Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec IV Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec V Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VI Seccion
+11000	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Chapultepec VII Seccion
+11040	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Molino del Rey
+11100	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Bosque de Chapultepec II Seccion
+11100	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Bosque de Chapultepec III Seccion
+11200	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas Hermosa
+11200	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Sotelo
+11210	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Pueblo	San Lorenzo Tlaltenango
+11220	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Periodista
+11230	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Argentina Poniente
+11240	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ignacio Manuel Altamirano
+11250	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	10 de Abril
+11260	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Mexico Nuevo
+11260	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Joaquín
+9838	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Plan de Iguala
+9839	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Paraje San Juan
+9839	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Joya
+9840	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Los Reyes CulhuacAn
+9849	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Los Reyes
+9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Xalpa
+9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San NicolAs Tolentino
+9850	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa María del Monte
+9856	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Estado de Veracruz
+9856	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Veracruzana
+9858	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paraje San Juan Cerro
+9859	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Benito JuArez
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Bellavista
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Bellavista
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Casa Blanca
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cerro de La Estrella
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Parque Nacional Cerro de la Estrella
+9860	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Rodeo
+9868	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Juan Estrella
+9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	12 de Diciembre
+9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Andres TomatlAn
+9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Andres TomatlAn
+9870	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa María TomatlAn
+9880	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Vergel
+9880	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Granjas Estrella
+9890	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas Estrella
+9897	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Carlos Jonguitud Barrios
+9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	Guadalupe
+9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Antonio
+9900	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Lorenzo
+9910	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Esperanza
+9920	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jose Lopez Portillo
+9930	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Rosario
+9940	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jardines de San Lorenzo Tezonco
+9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Celoalliotli
+9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	USCOVI
+9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Molino Tezonco
+9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Allapetlalli
+9960	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Planta
+9969	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cananea
+9970	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Valle de San Lorenzo
+10000	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Lomas Quebradas
+10010	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	La Malinche
+10010	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Bartolo Ameyalco
+10020	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Cuauhtemoc
+10130	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Maestro
+10200	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	San Jeronimo Lídice
+10300	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Pueblo	San Bernabe Ocotepec
+10320	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	El Tanque
+10330	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Las Cruces
+10340	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Los Padres
+10350	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Lomas de San Bernabe
+10360	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Huayatla
+10368	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Ampliacion Potrerillo
+10369	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Ampliacion Lomas de San Bernabe
+10369	Ciudad de Mexico	La Magdalena Contreras	Ciudad de Mexico	Colonia	Tierra Unida
+2480	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Petrolera
+2490	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Mateo
+2500	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Unidad CuitlAhuac
+2519	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	El Jagüey
+2520	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Equipamiento	Estacion Pantaco
+2530	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Jardín Azpeitia
+2600	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Pro-Hogar
+2630	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Coltongo
+2630	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Coltongo
+2640	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Monte Alto
+2650	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Trabajadores de Hierro
+2660	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Euzkadi
+2670	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Cosmopolita
+2680	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Potrero del Llano
+2700	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Miguel Amantla
+2710	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Pedro Xalpa
+2719	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion San Pedro Xalpa
+2720	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Antonio
+2720	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Bartolo Cahualtongo
+2730	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Francisco Tetecala
+2750	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santiago Ahuizotla
+2760	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Industrial San Antonio
+2760	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Santa Lucía
+2770	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa Cruz Acayucan
+2780	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Plenitud
+2790	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Santa Apolonia
+2800	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva Santa María
+2810	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ignacio Allende
+2810	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Victoria de las Democracias
+2830	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Bernabe
+2840	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Obrero Popular
+2860	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tlatilco
+2870	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Salvador Xochimanca
+2900	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Aguilera
+2910	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Aldana
+2920	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Cosmopolita
+2930	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Liberacion
+2940	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Porvenir
+2950	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Gas
+2960	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Francisco Xocotitla
+2970	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Del Gas
+2980	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Arenal
+2980	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Patrimonio Familiar
+2990	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	La Raza
+3000	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Piedad Narvarte
+3010	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Atenor Salas
+3020	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Narvarte Poniente
+3023	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Narvarte Oriente
+3100	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Valle Centro
+3100	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Insurgentes San Borja
+13060	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana
+13070	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Magdalena
+13070	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+13080	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Los Reyes
+13090	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Quiahuatla
+13093	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	San SebastiAn
+13094	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	San Isidro
+13099	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Andres
+13100	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Guadalupe
+13120	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Santa Catarina
+13120	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago
+13150	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Concepcion
+13180	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+13200	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Miguel Hidalgo
+13210	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Los Olivos
+13219	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Las Arboledas
+13219	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Los Olivos
+13220	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Nopalera
+13230	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Granjas Cabrera
+13250	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Turba
+13270	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Del Mar
+13273	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Draga
+13278	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Villa Centroamericana
+13280	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Agrícola Metropolitana
+13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Centro
+13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Centro
+13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Poniente
+13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Norte
+13300	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Norte
+13310	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Zapotitla
+13315	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Zapotitla
+13319	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Estacion
+13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Conchita ZapotitlAn
+13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Ana Sur
+13360	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santiago Sur
+13400	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Pueblo	San Francisco Tlaltenco
+13410	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Lopez Portillo
+13419	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Jose Lopez Portillo
+13420	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Selene
+13430	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion Selene
+13440	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Zacatenco
+13450	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Guadalupe Tlaltenco
+13450	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ojo de Agua
+13460	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	El TriAngulo
+13508	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Agustín
+13508	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Soledad
+13509	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Concepcion
+13510	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Lupita
+13520	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Francisco Villa
+13530	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Jaime Torres Bodet
+13530	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Asuncion
+13540	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	El Rosario
+13540	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Tierra Blanca
+13545	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Ampliacion La Conchita
+13549	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Peña Alta
+13550	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Jardines del Llano
+13550	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Potrero del Llano
+8810	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Reforma Iztaccíhuatl Norte
+8830	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Militar Marte
+8840	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Reforma Iztaccíhuatl Sur
+8900	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	INFONAVIT Iztacalco
+8910	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Barrio	Santa Cruz
+8920	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Jardines Tecma
+8930	Ciudad de Mexico	Iztacalco	Ciudad de Mexico	Colonia	Campamento 2 de Octubre
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	La Asuncion
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Ignacio
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Jose
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Lucas
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Pablo
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Pedro
+9000	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	Santa BArbara
+9010	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Real del Moral
+9020	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Dr. Alfonso Ortiz Tirado
+9030	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paseos de Churubusco
+9040	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Central de Abasto
+9060	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Escuadron 201
+9060	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Sector Popular
+9070	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Granjas de San Antonio
+9080	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cacama
+9089	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Modelo
+9090	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Heroes de Churubusco
+9099	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Mexicaltzingo
+9100	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Juan Escutia
+9130	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Lorenzo Xicotencatl
+9140	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Martha Acatitla Norte
+9180	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ermita Zaragoza
+9200	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Vicente Guerrero
+9208	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Chinampac de JuArez
+9209	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Renovacion
+9210	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Tepalcates
+9220	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Unidad Ejercito Constitucionalista
+9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Alvaro Obregon
+9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ejercito de Oriente
+9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Paraíso
+9230	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jose María Morelos y Pavon
+9239	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ejercito de Oriente Zona Peñon
+9240	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Progresista
+9250	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Regadera
+9260	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Constitucion de 1917
+9270	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Colonial Iztapalapa
+9280	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jacarandas
+9290	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Cruz Meyehualco
+9300	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Guadalupe del Moral
+9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 1a Seccion
+9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 2a Seccion
+9310	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Leyes de Reforma 3a Seccion
+9319	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Cuchilla del Moral
+9320	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Sideral
+9350	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Albarrada
+9359	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Eva SAmano de Lopez Mateos
+9360	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Miguel
+14476	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	La Palma
+14479	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Viveros CoatectlAn
+14480	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	La Magdalena Petlacalco
+14490	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Xicalco
+14500	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Topilejo
+14600	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle Escondido
+14608	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Colinas del Bosque
+14609	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Las Tortolas
+14610	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Arenal Tepepan
+14620	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Club de Golf Mexico
+14629	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Buenaventura
+14630	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Chimalcoyoc
+14630	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa Tlalpan
+14640	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ejidos de San Pedro MArtir
+14643	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Fuentes de Tepepan
+14646	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle de Tepepan
+14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Juventud Unida
+14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Movimiento Organizado de Tlalpan
+14647	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rinconada El Mirador
+14650	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Pedro MArtir
+14653	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroico Colegio Militar
+14655	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Valle Verde
+14657	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalmille
+14658	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador del Valle
+14659	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	María Esther Zuno de Echeverría
+14700	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Miguel Ajusco
+14710	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Santo Tomas Ajusco
+14720	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Belvedere Ajusco
+14730	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Cuilotepec
+14734	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	El Zacaton
+14735	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Campamento	Lomas de Tepemecatl
+14737	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Vistas del Pedregal
+14738	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Bosques del Pedregal
+14739	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	2 de Octubre
+14740	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Padierna Sur
+14748	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador I
+14748	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mirador II
+14749	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Chimilli
+14760	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroes de 1910
+14900	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Parres El Guarda
+15000	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	General Ignacio Zaragoza
+15010	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Valentín Gomez Farias
+15020	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Puebla
+15100	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Zona Centro
+15200	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Janitzio
+15210	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Valle Gomez
+15220	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	NicolAs Bravo
+15220	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Popular Rastro
+15230	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Emilio Carranza
+15240	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Michoacana
+15250	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Michoacana
+15260	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion 20 de Noviembre
+15270	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Morelos
+1619	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rinconada de Tarango
+1620	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Tarango
+1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Puerta Grande
+1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Puerta Grande
+1630	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Juristas
+1640	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Heron Proal
+1645	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ponciano Arriaga
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Milagrosa
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Palmas Axotitla
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlacuitlapa
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Tlacuitlapa
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2o Reacomodo Tlacuitlapa
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Ruedo
+1650	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Lucía Chantepec
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Joyita del Pueblo Tetelpan
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ocotillos del Pueblo Tetelpan
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Agustín del Pueblo Tetelpan
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Del Moral del Pueblo Tetelpan
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tecalcapa del Pueblo Tetelpan
+1700	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Tetelpan
+1708	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Encino del Pueblo Tetelpan
+1708	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Mirador del Pueblo Tetelpan
+1710	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas
+1710	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Alpes
+1720	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Guadalupe
+1729	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Alcantarilla
+1730	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de las Aguilas
+1730	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Puente Colorado
+1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Peñita del Pueblo Tetelpan
+1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Clemente Norte
+1740	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Clemente Sur
+1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 1a Seccion
+1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 2o Parque
+1750	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Aguilas 3er Parque
+1759	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Las Aguilas
+1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Atlamaya
+1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Flor de María
+1760	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Herradura del Pueblo Tetelpan
+1770	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Angostura
+1770	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Jose del Olivar
+1780	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar de los Padres
+1780	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tizampampano del Pueblo Tetelpan
+1789	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Miguel Hidalgo
+1790	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de los Angeles del Pueblo Tetelpan
+1790	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de San Angel Inn
+1800	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	San Bartolo Ameyalco
+1807	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rancho San Francisco Pueblo San Bartolo Ameyalco
+1810	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Verdún
+1820	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas Axomiatla
+1820	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ejido San Mateo
+1830	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Rosa Xochiac
+1840	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Torres de Potrero
+1849	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rincon de la Bolsa
+1849	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rancho del Carmen del Pueblo San Bartolo Ameyalco
+15280	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Penitenciaria
+15290	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	10 de Mayo
+15300	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	20 de Noviembre
+15309	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	5o Tramo 20 de Noviembre
+15310	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Felipe Angeles
+15320	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Azteca
+15330	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Tres Mosqueteros
+15339	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Venustiano Carranza
+15340	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Venustiano Carranza
+15350	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Penitenciaria
+15370	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Progresista
+15380	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Escuela de Tiro
+15390	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	7 de Julio
+15400	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Romero Rubio
+15410	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Simon Bolívar
+15420	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Simon Bolívar
+15430	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aquiles SerdAn
+15440	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	1° de Mayo
+15450	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	DamiAn Carmona
+15460	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Revolucion
+15470	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Miguel Hidalgo
+15500	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Moctezuma 1a Seccion
+15510	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Pensador Mexicano
+15520	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Peñon de los Baños
+15530	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Moctezuma 2a Seccion
+15540	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Santa Cruz Aviacion
+15600	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 1a Seccion
+15610	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Cuchilla PantitlAn
+15620	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Aeropuerto	Mexico (Lic. Benito JuArez)
+15630	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Caracol
+15640	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 4a Seccion
+15640	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal Puerto Aereo
+15650	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Caracol
+15660	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 3a Seccion
+15670	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Adolfo Lopez Mateos
+15680	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Arenal 2a Seccion
+15700	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Federal
+15710	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Industrial Puerto Aereo
+15730	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	4 Arboles
+15740	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Aviacion Civil
+15750	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Ampliacion Aviacion Civil
+15800	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Jamaica
+15810	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Merced Balbuena
+15820	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Lorenzo Boturini
+15830	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Artes GrAficas
+15840	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Sevilla
+15850	Ciudad de Mexico	Venustiano Carranza	Ciudad de Mexico	Colonia	Magdalena Mixiuhca
+1857	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Chamontoya
+1859	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlacoyaque
+1860	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de La Era
+1863	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas del Capulín
+1870	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de los Cedros
+1900	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jardines del Pedregal
+1904	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Jeronimo Aculco
+2000	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Centro de Azcapotzalco
+2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Los Reyes
+2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Rafael
+2010	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Nuevo Barrio San Rafael
+2020	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Marcos
+2020	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santo TomAs
+2040	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Maestro
+2040	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San SebastiAn
+2050	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Libertad
+2050	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa María Malinalco
+2060	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Sindicato Mexicano de Electricistas
+2060	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Un Hogar Para Cada Trabajador
+2070	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Del Recreo
+2070	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Nextengo
+2080	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Clavería
+2080	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Sector Naval
+2090	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	San Alvaro
+2099	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Angel Zimbron
+2100	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	El Rosario
+2120	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Martín Xochinahuac
+2128	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva El Rosario
+2129	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Nueva España
+2130	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tierra Nueva
+2140	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santa Ines
+2150	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Pasteros
+2160	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santo Domingo
+2200	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Reynosa Tamaulipas
+2230	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa BArbara
+2240	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	San Andres
+2240	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Andres
+2250	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	Santa Catarina
+2300	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Industrial Vallejo
+2310	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ferrería
+2320	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Andres de las Salinas
+2330	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Barrio	Huautla de las Salinas
+2340	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Santa Cruz de las Salinas
+2360	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Las Salinas
+2400	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Pueblo	San Juan Tlihuaca
+2410	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Prados del Rosario
+2420	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ex-Hacienda El Rosario
+2440	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Providencia
+2459	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Tezozomoc
+2460	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	La Preciosa
+2470	Ciudad de Mexico	Azcapotzalco	Ciudad de Mexico	Colonia	Ampliacion Petrolera
+5270	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Manzanastitla
+5280	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Adolfo Lopez Mateos
+5310	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Molinito
+5320	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Yaqui
+5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de Memetla
+5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Memetla
+5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Ampliacion Memetla
+5330	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Ampliacion el Yaqui
+5348	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Santa Fe Cuajimalpa
+5360	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Locaxco
+5370	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Tinajas
+5379	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de San Pedro
+5400	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Tianguillo
+5410	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Lorenzo Acopilco
+5410	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	1° de Mayo
+5500	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Contadero
+5520	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Venta
+5530	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Abdías García Soto
+5600	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Mateo Tlaltenango
+5610	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	Santa Rosa Xochiac
+5700	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cruz Blanca
+5710	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Maromas
+5730	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Xalpa
+5750	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Pila
+5760	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Las Lajas
+5780	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Agua Bendita
+6000	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 1)
+6010	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 2)
+6020	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 3)
+6030	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Tabacalera
+6040	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 4)
+6050	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 5)
+6060	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 6)
+6070	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 7)
+6080	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 8)
+6090	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Centro (Area 9)
+6100	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Hipodromo
+6140	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Condesa
+6170	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Hipodromo Condesa
+6200	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Morelos
+6220	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Peralvillo
+6240	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Valle Gomez
+6250	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Ex-Hipodromo de Peralvillo
+6270	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Maza
+6280	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Felipe Pescador
+6300	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Guerrero
+6350	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Buenavista
+6400	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Santa María la Ribera
+6430	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Santa María Insurgentes
+6450	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Atlampa
+6470	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	San Rafael
+6500	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Cuauhtemoc
+6600	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	JuArez
+6700	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Roma Norte
+6720	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Doctores
+13600	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Bartolome
+13610	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Los Reyes
+13625	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	Santa Cruz
+13630	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Agustín
+13640	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Miguel
+13700	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Pueblo	San NicolAs Tetelco
+13700	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Tepantitlamilco
+14000	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalpan Centro
+14000	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalpan
+14010	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Parque del Pedregal
+14020	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa Olímpica
+14030	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Isidro Fabela
+14039	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ampliacion Isidro Fabela
+14040	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cantera Puente de Piedra
+14040	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pueblo Quieto
+14049	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Comuneros de Santa Úrsula
+14050	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Toriello Guerra
+14060	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Peña Pobre
+14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Romulo SAnchez Mireles
+14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	San Fernando
+14070	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Pedro Apostol
+14080	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Belisario Domínguez Seccion XVI
+14080	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	Del Niño Jesús
+14090	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	La Joya
+14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 1A Seccion
+14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 2A Seccion
+14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 3A Seccion
+14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 4A Seccion
+14100	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de San NicolAs 5ª Seccion
+14108	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Chichicaspatl
+14110	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ampliacion Fuentes del Pedregal
+14120	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rincon del Pedregal
+14140	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Fuentes del Pedregal
+14150	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas del Pedregal Framboyanes
+14160	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Popular Santa Teresa
+14200	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Heroes de Padierna
+14200	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Jardines del Ajusco
+14208	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Colinas del Ajusco
+14209	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Torres de Padierna
+14210	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Jardines en la Montaña
+14219	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Equipamiento	Six Flags (Reino Aventura)
+14219	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Equipamiento	Parque Nacional Bosque del Pedregal
+14220	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cuchilla de Padierna
+14220	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas del Pedregal
+14230	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cultura Maya
+14239	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Los Encinos
+14240	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas de Padierna
+14240	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Lomas Hidalgo
+14248	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cruz del Farol
+14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 2A Seccion
+14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 3A Seccion
+14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 4A Seccion
+14250	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo
+14260	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	El Capulín
+14260	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Miguel Hidalgo 1A Seccion
+14266	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Zacayucan Peña Pobre
+14267	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	De Caramagüey
+14268	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	La Lonja
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Estrella
+1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Campo de Tiro los Gamitos
+1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Gamitos
+1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tlapechico
+1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Piru Santa Fe
+1230	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Piru 2a Ampliacion
+1239	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Huerta
+1240	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Pueblo Nuevo
+1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Arbol
+1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ladera
+1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Nuevo Mexico
+1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Margarita Maza de JuArez
+1250	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tecolalco
+1259	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion La Cebada
+1259	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Mexicana 2a Ampliacion
+1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Calzada Jalalpa
+1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Mexicana
+1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion La Mexicana
+1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Palmita
+1260	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Liberacion Proletaria
+1269	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	1a Seccion Cañada
+1269	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Seccion Cañada
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Tejocote
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Presa
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas 1a Seccion
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Golondrinas 2a Seccion
+1270	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Capula
+1275	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Solidaridad
+1276	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Pirul
+1278	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Desarrollo Urbano
+1279	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Becerra
+1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Arvide
+1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Pocito
+1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Francisco Villa
+1280	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Joya
+1285	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Rodeo
+1289	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Reacomodo El Cuernito
+1290	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Piloto Adolfo Lopez Mateos
+1290	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Presidentes
+1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa Tepito 2a Ampliacion
+1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Jalalpa
+1296	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa Tepito
+1298	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Piloto Adolfo Lopez Mateos
+1299	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	1a Ampliacion Presidentes
+1299	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	2a Ampliacion Presidentes
+1310	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Gabriel
+1320	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Carlos A. Madrazo
+1330	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Paseo de las Lomas
+1340	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Bejero del Pueblo Santa Fe
+1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe
+1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Peña Blanca
+1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe La Loma
+1376	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Centro Ciudad
+1377	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jalalpa El Grande
+4040	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Parque San Andres
+4100	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Del Carmen
+4120	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	San Diego Churubusco
+4120	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	San Mateo
+4200	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Campestre Churubusco
+4210	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Churubusco Country Club
+4230	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Prado Churubusco
+4240	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Hermosillo
+4250	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Paseos de Taxqueña
+4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de San Francisco
+4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de La Magdalena
+4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de Santa Ana
+4260	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Francisco CulhuacAn Barrio de San Juan
+4300	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ajusco
+4310	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Romero de Terreros
+4318	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	Oxtopulco Universidad
+4320	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cuadrante de San Francisco
+4320	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de San Francisco
+4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Rosedal
+4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	Los Reyes
+4330	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	Del Niño Jesús
+4340	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco El Bajo
+4360	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco El Alto
+4360	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Copilco Universidad
+4369	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Santo Domingo
+4370	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	AtlAntida
+4370	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ciudad Jardín
+4380	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Rosario
+4380	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	La Candelaria
+4390	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Huayamilpas
+4390	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Nueva Díaz Ordaz
+4400	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Educacion
+4410	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Petrolera Taxqueña
+4420	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de San Francisco CulhuacAn
+4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion V
+4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion II
+4440	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion I
+4450	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Centinela
+4460	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Avante
+4470	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Presidentes Ejidales 1a Seccion
+4470	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Presidentes Ejidales 2a Seccion
+4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VI
+4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion III
+4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM CROC
+4480	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion X-A
+4489	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VII
+4490	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion Piloto
+4490	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Canal Nacional
+4500	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Jardines del Pedregal de San Angel
+4510	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Equipamiento	Universidad Nacional Autonoma de Mexico
+4519	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	La Otra Banda
+4530	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Insurgentes Cuicuilco
+4600	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Santa Úrsula
+4610	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Xotepingo
+4620	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	San Pablo Tepetlapa
+4630	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Adolfo Ruiz Cortínes
+1389	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Santa Fe Tlayapaca
+1400	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar del Conde 1a Seccion
+1400	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Preconcreto
+1407	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Galeana
+1408	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Olivar del Conde 2a Seccion
+1410	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Barrio Norte
+1410	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Palmas
+1419	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Minas Cristo Rey
+1420	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Sacramento
+1420	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	Santa María Nonoalco
+1430	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Colina del Sur
+1450	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Hogar y Redencion
+1460	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Alfonso XIII
+1470	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	Alfalfar
+1470	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Molino de Rosas
+1480	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Plateros
+1490	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Cascada
+1500	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Lucía
+1500	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Miguel Gaona Armenta
+1509	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Lucía Chantepec
+1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Garcimarrero
+1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Araña
+1510	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Cedros
+1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Los Pirules
+1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Estado de Hidalgo
+1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Estado de Hidalgo
+1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Piru Santa Lucía
+1520	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Politoco
+1530	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Corpus Christy
+1538	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tepopotla
+1539	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Acuilotla
+1539	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cooperativa Union Olivos
+1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Balcones de Cehuayo
+1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cehuaya
+1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Llano Redondo
+1540	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Punta de Cehuaya
+1548	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Villa Progresista
+1549	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Dos Ríos del Pueblo Santa Lucía
+1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tepeaca
+1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Tepeaca
+1550	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Rinconada Las Cuevitas
+1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ave Real
+1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo
+1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo 3a Seccion
+1560	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Canutillo 2a Seccion
+1566	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Hueytlale
+1569	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Reacomodo Valentín Gomez Farías
+1588	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tarango
+1590	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Rincon
+1600	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Merced Gomez
+1610	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Colinas de Tarango
+1610	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Profesor J. Arturo Lopez Martínez
+1618	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Arcos Centenario
+1618	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ex-Hacienda de Tarango
+1619	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Martinica
+4640	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Reloj
+4650	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Pueblo	Santa Úrsula Coapa
+4660	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Joyas del Pedregal
+4700	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Pedregal de Carrasco
+4710	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Olímpica
+4730	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cantil del Pedregal
+4730	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Bosques de Tetlameya
+4739	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Caracol
+4800	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Alianza Popular Revolucionaria
+4800	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Cedros
+4810	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Prados de CoyoacAn
+4815	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Emiliano Zapata
+4830	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Cipreses
+4840	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de San Pablo Tepetlapa
+4870	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Espartaco
+4890	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Jardines de CoyoacAn
+4890	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Olivos
+4899	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Parque de CoyoacAn
+4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion VIII
+4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion IX-A
+4909	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion IX-B
+4910	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Carmen SerdAn
+4918	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Cafetales
+4919	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Emiliano Zapata Fraccionamiento Popular
+4920	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Girasoles
+4929	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Las Campanas
+4930	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Santa Cecilia
+4938	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Campestre CoyoacAn
+4939	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	CulhuacAn CTM Seccion X
+4940	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Los Sauces
+4950	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	El Mirador
+4960	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Villa Quietud
+4970	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Haciendas de CoyoacAn
+4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Ejido de Santa Úrsula Coapa
+4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Ex-Hacienda Coapa
+4980	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Viejo Ejido de Santa Úrsula Coapa
+5000	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cuajimalpa
+5010	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Zentlapatl
+5020	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Loma del Padre
+5030	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	San Pedro
+5030	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	La Manzanita
+5050	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Pueblo	San Pablo Chimalpa
+5100	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas de Vista Hermosa
+5110	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Cooperativa Palo Alto
+5118	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Granjas Palo Alto
+5119	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Campestre Palo Alto
+5120	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Bosques de las Lomas
+5129	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Lomas del Chamizal
+5200	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	San Jose de los Cedros
+5219	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Granjas Navidad
+5220	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Tepetongo
+5230	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El ebano
+5240	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	El Molino
+5260	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Jesús del Monte
+5269	Ciudad de Mexico	Cuajimalpa de Morelos	Ciudad de Mexico	Colonia	Amado Nervo
+7510	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Felipe de Jesús
+7520	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	25 de Julio
+7530	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Campestre Aragon
+7540	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Esmeralda
+7550	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Providencia
+7560	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Providencia
+7570	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Villa de Aragon
+7580	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Casas AlemAn
+7600	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Progreso Nacional
+7620	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santa Rosa
+7630	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Jose de la Escalera
+7640	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santiago Atepetlac
+7650	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Progreso Nacional
+7670	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Proletaria
+7680	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Guadalupe Proletaria
+7700	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva Industrial Vallejo
+7707	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Siete Maravillas
+7708	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Torres Lindavista
+7720	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo I Seccion
+7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Churubusco Tepeyac
+7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Montevideo
+7730	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Bartolo Atepehuacan
+7739	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Planetario Lindavista
+7740	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Valle del Tepeyac
+7750	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva Vallejo
+7754	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo III Seccion
+7755	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Vallejo II Seccion
+7760	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Magdalena de las Salinas
+7770	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Panamericana
+7770	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Panamericana
+7780	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Defensores de La República
+7780	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Heroe de Nacozari
+7790	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Victoria
+7790	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vallejo Poniente
+7800	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Industrial
+7810	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Estrella
+7820	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Aragon InguarAn
+7820	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tres Estrellas
+7830	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 1a Seccion
+7838	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 3a Seccion
+7839	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gertrudis SAnchez 2a Seccion
+7840	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Tepeyac
+7840	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	7 de Noviembre
+7850	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Bondojito
+7850	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Faja de Oro
+7858	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Emiliano Zapata
+7859	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion MArtires de Río Blanco
+7860	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Joyita
+7860	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tablas de San Agustín
+7869	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Belisario Domínguez
+7870	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Insurgentes
+7870	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vallejo
+7880	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	MArtires de Río Blanco
+7889	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Emiliano Zapata
+7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuchilla La Joya
+7890	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Joya
+9660	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Citlalli
+9670	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Palmitas
+9680	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Tenorios
+9689	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Barranca de Guadalupe
+9690	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	IztlahuacAn
+9696	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Miravalles
+9698	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Miguel de La Madrid Hurtado
+9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Buenavista
+9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Carlos Hank Gonzalez
+9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Desarrollo Urbano Quetzalcoatl
+9700	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa Cruz Meyehualco
+9704	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Degollado
+9705	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Degollado - Mexicatlalli
+9706	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Jose Buenavista
+9708	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Mixcoatl
+9709	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de Santa Cruz
+9710	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Los Angeles Apanoaya
+9720	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Francisco Villa
+9720	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Era
+9730	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Reforma Política
+9740	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Presidentes de Mexico
+9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Insurgentes
+9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	La Polvorilla
+9750	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Las Peñas
+9760	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Consejo Agrarista Mexicano
+9769	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El TriAngulo
+9770	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Puente Blanco
+9780	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Año de JuArez
+9780	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de San Lorenzo
+9790	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Lorenzo Tezonco
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	CulhuacAn
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Mirador
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Estrella CulhuacAn
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Fuego Nuevo
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Antonio CulhuacAn
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Antonio CulhuacAn
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	San Simon CulhuacAn
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Barrio	Tula
+9800	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Valle de Luces
+9810	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Granjas Esmeralda
+9810	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Los Cipreses
+9810	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Minerva
+9810	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Progreso del Sur
+9819	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Valle del Sur
+9820	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Santuario
+9820	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Estrella del Sur
+9820	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ricardo Flores Magon
+9820	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Isabel Industrial
+9828	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Ricardo Flores Magon
+9829	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion El Santuario
+9830	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Manto
+9830	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Molino
+9830	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas El Manto
+9830	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Los Angeles
+9830	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paraje San Juan
+9837	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel 8va. Ampliacion
+11650	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Reforma Social
+11700	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Bosque de las Lomas
+11800	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Escandon I Seccion
+11800	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Escandon II Seccion
+11810	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	16 de Septiembre
+11820	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	America
+11830	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Daniel Garza
+11840	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ampliacion Daniel Garza
+11850	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Miguel Chapultepec I Seccion
+11850	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Miguel Chapultepec II Seccion
+11860	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Observatorio
+11870	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Tacubaya
+11910	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Bezares
+11920	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Real de las Lomas
+11930	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas de Reforma
+11950	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lomas Altas
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	La Concepcion
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	La Luz
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Los Angeles
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Mateo
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Santa Cruz
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Santa Martha
+12000	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Colonia	Villa Milpa Alta Centro
+12070	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Agustin
+12080	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Agustin Ohtenco
+12100	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Cruztitla
+12100	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Tecaxtitla
+12100	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Tenantitla
+12100	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Xaltipac
+12100	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Xochitepec
+12110	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Colonia	Emiliano Zapata
+12110	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Colonia	La Conchita
+12200	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Nochtla
+12200	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Ocotitla
+12200	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Panchimalco
+12200	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Tula
+12250	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Bartolome Xicomulco
+12300	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Salvador Cuauhtenco
+12400	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Centro
+12400	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Juan
+12400	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Miguel
+12410	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	Chalmita
+12500	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Lorenzo Tlacoyucan
+12600	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Jeronimo MiacatlAn
+12700	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Francisco Tecoxpa
+12800	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Pueblo	San Juan Tepenahuac
+12910	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	La Lupita Teticpac
+12920	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Marcos
+12930	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Miguel
+12940	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	San Jose
+12950	Ciudad de Mexico	Milpa Alta	Ciudad de Mexico	Barrio	La Lupita Xolco
+13000	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Asuncion
+13010	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	Santa Cecilia
+13020	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	San Jose
+13030	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Juan
+13040	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	San Mateo
+13050	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Colonia	La Habana
+13060	Ciudad de Mexico	TlAhuac	Ciudad de Mexico	Barrio	La Guadalupe
+3103	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Valle Norte
+3104	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Valle Sur
+3200	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Tlacoquemecatl
+3230	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Actipan
+3240	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Acacias
+3300	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Portales Sur
+3303	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Portales Norte
+3310	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Santa Cruz Atoyac
+3320	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Residencial Emperadores
+3330	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Xoco
+3340	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	General Pedro María Anaya
+3400	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Alamos
+3410	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Postal
+3420	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Miguel AlemAn
+3430	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Josefa Ortiz de Domínguez
+3440	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Niños Heroes
+3500	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Nativitas
+3510	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Moderna
+3520	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Iztaccihuatl
+3530	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Villa de Cortes
+3540	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Carmen
+3550	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Zacahuitzco
+3560	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Albert
+3570	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Portales Oriente
+3580	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Miravalle
+3590	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Ermita
+3600	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Vertiz Narvarte
+3610	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Americas Unidas
+3620	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Periodista
+3630	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Independencia
+3640	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Del Lago
+3650	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	LetrAn Valle
+3660	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	San Simon Ticumac
+3700	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Santa María Nonoalco
+3710	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Ciudad de los Deportes
+3720	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Nochebuena
+3730	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	San Juan
+3740	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Extremadura Insurgentes
+3800	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	San Pedro de los Pinos
+3810	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	NApoles
+3820	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	8 de Agosto
+3840	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Ampliacion NApoles
+3900	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	San Jose Insurgentes
+3910	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Mixcoac
+3920	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Insurgentes Mixcoac
+3930	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Merced Gomez
+3940	Ciudad de Mexico	Benito JuArez	Ciudad de Mexico	Colonia	Credito Constructor
+4000	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Colonia	Villa CoyoacAn
+4010	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	Santa Catarina
+4020	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	La Concepcion
+4030	Ciudad de Mexico	CoyoacAn	Ciudad de Mexico	Barrio	San Lucas
+7183	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	6 de Junio
+7187	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vista Hermosa
+7188	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tlalpexco
+7189	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ahuehuetes
+7190	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Valle de Madero
+7199	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Del Carmen
+7200	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuautepec de Madero
+7207	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Del Bosque
+7209	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Guadalupe Victoria Cuautepec
+7210	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Chalma de Guadalupe
+7214	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Chalma de Guadalupe
+7220	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Castillo Chico
+7220	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Castillo Grande
+7224	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Castillo Grande
+7230	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Zona Escolar
+7239	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Zona Escolar Oriente
+7240	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	El Arbolillo
+7250	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Benito JuArez
+7259	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Benito JuArez
+7268	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Solidaridad Nacional
+7270	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Residencial Acueducto de Guadalupe
+7279	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Acueducto de Guadalupe
+7280	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Jorge Negrete
+7290	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Pastora
+7300	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Norte
+7300	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lindavista Sur
+7310	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	Candelaria TicomAn
+7320	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	La Purísima TicomAn
+7320	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Residencial la Escalera
+7330	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santa María TicomAn
+7340	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	La Laguna TicomAn
+7340	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Jose TicomAn
+7350	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	Guadalupe TicomAn
+7350	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	San Juan y Guadalupe TicomAn
+7359	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Barrio	San Rafael TicomAn
+7360	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Pedro Zacatenco
+7369	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Residencial Zacatenco
+7370	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Capultitlan
+7380	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Maximino Avila Camacho
+7380	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tlacamaca
+7400	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Salvador Díaz Miron
+7410	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Juan GonzAlez Romero
+7410	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Villa Hermosa
+7420	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	El Coyol
+7420	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Nueva Atzacoalco
+7430	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Del Obrero
+7440	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Vasco de Quiroga
+7450	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	DM Nacional
+7455	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ferrocarrilera
+7456	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	LI Legislatura
+7460	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Granjas Modernas
+7469	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Constitucion de la República
+7470	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion San Juan de Aragon
+7480	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Pedro El Chico
+7500	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Pradera
+7509	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Pradera II Seccion
+9360	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion San Miguel
+9400	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San Juanico Nextipac
+9400	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Sifon
+9410	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Aculco
+9410	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Jardines de Churubusco
+9410	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Magdalena Atlazolpa
+9410	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Jose Aculco
+9420	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Los Picos VI-B
+9420	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Nueva Rosita
+9429	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Purísima Atlazolpa
+9430	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Apatlaco
+9430	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Triunfo
+9438	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion El Triunfo
+9440	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Retoño
+9440	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Andres Tetepilco
+9440	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Zacahuitzco
+9450	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Banjidal
+9460	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Justo Sierra
+9470	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Sinatel
+9479	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Sinatel
+9480	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Prado
+9500	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa María AztahuacAn
+9500	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa María AztahuacAn Ampliacion
+9510	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santa Martha Acatitla
+9520	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	El Eden
+9520	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	San SebastiAn Tecoloxtitla
+9530	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa Martha Acatitla Sur
+9550	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Monte Alban
+9560	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Paraje Zacatepec
+9570	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santa María AztahuacAn
+9578	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ejercito de Agua Prieta
+9600	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Pueblo	Santiago Acahualtepec
+9608	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santiago Acahualtepec 1ra. Ampliacion
+9609	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Santiago Acahualtepec 2a. Ampliacion
+9620	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de Zaragoza
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Corrales
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Acorralado
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Avisadero
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Capilla
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Guadalupe
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Iztlahuaca
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Jardines
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion La Cruz
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Loma Alta
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Mercedes
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Palmitas
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Puente
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Ranchito
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Rancho Bajo
+9630	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Miguel Teotongo Seccion Torres
+9637	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Campestre Potrero
+9638	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Ampliacion Emiliano Zapata
+9640	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Lomas de la Estancia
+9640	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	Xalpa
+9648	Ciudad de Mexico	Iztapalapa	Ciudad de Mexico	Colonia	San Pablo
+11270	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Argentina Antigua
+11280	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Torre Blanca
+11289	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ampliacion Torre Blanca
+11290	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Huíchapan
+11290	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Diego Ocoyoacac
+11300	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Veronica Anzures
+11310	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Mariano Escobedo
+11320	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	AnAhuac I Seccion
+11320	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	AnAhuac II Seccion
+11330	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Un Hogar Para Nosotros
+11340	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Santo Tomas
+11350	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Plutarco Elías Calles
+11360	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Agricultura
+11370	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Tlaxpana
+11400	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Popotla
+11410	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Legaria
+11410	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Pueblo	Tacuba
+11420	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Nextitla
+11430	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Pensil Norte
+11430	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ventura Perez de Alva
+11440	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Reforma Pensil
+11440	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	San Juanico
+11450	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ahuehuetes AnAhuac
+11450	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Modelo Pensil
+11450	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Peralitos
+11460	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Dos Lagos
+11460	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lago Norte
+11460	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Lago Sur
+11460	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Los Manzanos
+11470	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	5 de Mayo
+11470	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Deportivo Pensil
+11480	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Francisco I Madero
+11480	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Popo
+11489	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ampliacion Popo
+11490	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Cuauhtemoc Pensil
+11490	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Pensil Sur
+11500	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Irrigacion
+11510	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Polanco I Seccion
+11520	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Granada
+11529	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Ampliacion Granada
+11530	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Polanco II Seccion
+11540	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Polanco III Seccion
+11550	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Polanco IV Seccion
+11560	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Polanco V Seccion
+11570	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Chapultepec Morales
+11580	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Bosque de Chapultepec I Seccion
+11590	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Anzures
+11600	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Residencial Militar
+11610	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Colonia	Manuel Avila Camacho
+11619	Ciudad de Mexico	Miguel Hidalgo	Ciudad de Mexico	Equipamiento	Campo Militar 1
+14269	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	La Fama
+14270	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Primavera
+14270	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Verano
+14275	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Paraje 38
+14300	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Nueva Oriental Coapa
+14300	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Residencial Acoxpa
+14300	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Residencial Miramontes
+14308	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ex Hacienda Coapa
+14310	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Belisario Domínguez
+14310	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Floresta CoyoacAn
+14320	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Vergel Coapa
+14325	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rinconada Coapa 2A Seccion
+14326	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tenorios
+14330	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Granjas Coapa
+14330	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rinconada Coapa 1A Seccion
+14340	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Vergel de CoyoacAn
+14340	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Vergel del Sur
+14350	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Prado Coapa 1A Seccion
+14357	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Prado Coapa 2A Seccion
+14357	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Prado Coapa 3A Seccion
+14360	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Magisterial
+14360	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Magisterial Coapa
+14370	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Residencial Chimali
+14370	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Lorenzo Huipulco
+14370	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa LAzaro CArdenas
+14376	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Arboledas del Sur
+14377	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Hacienda San Juan
+14380	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	A.M.S.A
+14380	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Bartolo El Chico
+14386	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rancho los Colorines
+14387	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Ex Hacienda San Juan de Dios
+14388	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Guadalupe
+14389	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Arenal de Guadalupe
+14390	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Rinconada Las Hadas
+14390	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Narciso Mendoza
+14390	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Residencial Villa Coapa
+14390	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Villa Coapa
+14400	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	San Andres Totoltepec
+14406	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Divisadero
+14408	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Nuevo Renacimiento de Axalco
+14409	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tecorral
+14410	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Bosques de Tepeximilpa
+14410	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Fuentes Brotantes
+14420	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Cumbres de Tepetongo
+14420	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Mesa de los Hornos
+14420	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Pueblo	Santa Úrsula Xitla
+14426	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Texcaltenco
+14426	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlaxcaltenco la Mesa
+14427	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	San Juan Tepeximilpa
+14427	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tepeximilpa la Paz
+14429	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Santísima Trinidad
+14430	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Barrio	El Truenito
+14430	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalcoligia
+14438	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de Santa Úrsula Xitla
+14439	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Pedregal de las Aguilas
+14440	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Los Volcanes
+14449	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	El Mirador 1A Seccion
+14449	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	El Mirador 2A Seccion
+14449	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	El Mirador 3A Seccion
+14460	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Tlalpuente
+14470	Ciudad de Mexico	Tlalpan	Ciudad de Mexico	Colonia	Plan de Ayala
+16430	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Xochipilli
+16440	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Año de JuArez
+16443	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Pocitos
+16450	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa María Nativitas
+16457	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Lomas de Nativitas
+16459	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Ampliacion Nativitas
+16500	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa Cruz Acalpixca
+16513	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Apatlaco
+16513	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Del Puente
+16514	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Gallera
+16514	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Tetitla
+16514	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Calpulco
+16520	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Planta
+16530	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Las Cruces
+16530	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Las Flores
+16533	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Ahualapa
+16550	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Valle de Santa María
+16600	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Gregorio Atlapulco
+16604	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Andres
+16605	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Los Reyes
+16606	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	3 de Mayo
+16607	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Antonio
+16609	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Candelaria
+16610	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Luis Tlaxialtemalco
+16614	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Niños Heroes
+16615	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Asuncion
+16616	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Santa Cecilia
+16617	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San SebastiAn
+16620	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Jose
+16629	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	La Guadalupana
+16629	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Juan
+16630	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Juan Moyotepec
+16640	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	San Juan Minas
+16710	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Quirino Mendoza
+16720	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Del Carmen
+16739	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Isidro
+16740	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Guadalupita
+16749	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Las Animas
+16750	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Calyequita
+16770	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	San Felipe
+16776	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Santiaguito
+16776	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Mirador
+16780	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Cerrillos Primera Seccion
+16780	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	El Sacrificio
+16780	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Cristo Rey
+16780	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Cerrillos Segunda Seccion
+16780	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Cerrillos Tercera Seccion
+16797	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Nativitas
+16799	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Las Mesitas
+16800	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Mateo Xalpa
+16810	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Andres Ahuayucan
+16810	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Santa Ines
+16810	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Rosario Tlali
+16813	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	El Calvario
+16840	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Santa Cruz Chavarrieta
+16850	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Barrio	Chapultepec
+16860	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Colonia	Santa Cruz de Guadalupe
+16880	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	Santa Cecilia Tepetlapa
+16900	Ciudad de Mexico	Xochimilco	Ciudad de Mexico	Pueblo	San Francisco Tlalnepantla
+6760	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Roma Sur
+6780	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Buenos Aires
+6800	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Obrera
+6820	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	TrAnsito
+6840	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Esperanza
+6850	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Asturias
+6860	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Vista Alegre
+6870	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Paulino Navarro
+6880	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Algarin
+6890	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Ampliacion Asturias
+6900	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	Nonoalco Tlatelolco
+6920	Ciudad de Mexico	Cuauhtemoc	Ciudad de Mexico	Colonia	San Simon TolnAhuac
+7000	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Aragon la Villa
+7010	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Rosas del Tepeyac
+7010	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Santa Isabel Tola
+7010	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tepetates
+7020	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tepeyac Insurgentes
+7040	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Pueblo	Santiago Atzacoalco
+7050	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Villa Gustavo A. Madero
+7058	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	15 de Agosto
+7060	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Estanzuela
+7069	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Triunfo de La República
+7070	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Cruz
+7070	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Dinamita
+7070	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Martín Carrera
+7080	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Gabriel HernAndez
+7089	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Gabriel HernAndez
+7090	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	C.T.M. Atzacoalco
+7090	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	C.T.M. El Risco
+7100	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cuautepec Barrio Alto
+7100	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Miguel
+7109	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	San Antonio
+7110	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Lomas de Cuautepec
+7119	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Malacates
+7119	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Malacates
+7130	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Compositores Mexicanos
+7130	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	El Tepetatal
+7140	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Arboledas
+7140	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Arboledas
+7140	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Forestal
+7140	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Forestal I
+7144	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Forestal II
+7144	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Lengüeta
+7149	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Parque Metropolitano
+7150	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Juventino Rosas
+7150	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	La Casilda
+7160	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Loma La Palma
+7164	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Luis Donaldo Colosio
+7164	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Tlacaelel
+7164	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Graciano SAnchez
+7164	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Prados de Cuautepec
+7170	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Palmatitla
+7180	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Cocoyotes
+7180	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	General Felipe Berriozabal
+7180	Ciudad de Mexico	Gustavo A. Madero	Ciudad de Mexico	Colonia	Ampliacion Cocoyotes
+1000	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Angel
+1010	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Los Alpes
+1020	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Guadalupe Inn
+1030	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Axotla
+1030	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Florida
+1040	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Campestre
+1049	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Tlacopac
+1050	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ex-Hacienda de Guadalupe Chimalistac
+1060	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Altavista
+1060	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Angel Inn
+1070	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Chimalistac
+1080	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Progreso Tizapan
+1089	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ermita Tizapan
+1090	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	La Otra Banda
+1090	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Barrio	Loreto
+1090	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Tizapan
+1100	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Polvora
+1109	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	La Conchita
+1110	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Belem de las Flores
+1110	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Capulín
+1110	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion El Capulín
+1110	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Liberales de 1857
+1120	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Acueducto
+1120	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cove
+1120	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Hidalgo
+1120	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Las Americas
+1125	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Ampliacion Acueducto
+1130	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Paraíso
+1130	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Molino de Santo Domingo
+1130	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Real del Monte
+1139	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Reacomodo Pino SuArez
+1140	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Bellavista
+1140	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Jose Maria Pino SuArez
+1150	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cristo Rey
+1150	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Tolteca
+1160	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Bosque
+1160	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Isidro Fabela
+1160	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Maria G. de García Ruiz
+1160	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	1a Victoria
+1170	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Abraham M. GonzAlez
+1180	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Carola
+1180	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	8 de Agosto
+1180	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	San Pedro de los Pinos
+1200	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Arturo Martínez
+1210	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Pueblo	Santa Fe
+1219	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Lomas de Santa Fe
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Bonanza
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Cuevitas
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	El Cuernito
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	MArtires de Tacubaya
+1220	Ciudad de Mexico	Alvaro Obregon	Ciudad de Mexico	Colonia	Zenon Delgado
