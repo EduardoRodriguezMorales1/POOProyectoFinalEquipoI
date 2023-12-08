@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"registroalumnos","l":"Alumno"},{"p":"registroalumnos","l":"Asignatura"},{"p":"registroalumnos","l":"GenNombres"},{"p":"registroalumnos","l":"GenNumInscripcion"},{"p":"registroalumnos","l":"RegistroAcadem"},{"p":"registroalumnos","l":"REGISTROALUMNOS"}];updateSearchResults();
