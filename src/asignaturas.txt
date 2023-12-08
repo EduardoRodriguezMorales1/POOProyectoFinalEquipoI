@@ -1,0 +1,50 @@
+Algebra,8,1
+Calculo y geometria analitica,12,1
+Igualdad de genero,0,1
+Quimica,10,1
+Fundamentos de fisica,6,1
+Fundamentos de programacion,10,1
+Algebra lineal,8,2
+Calculo integral,8,2
+Mecanica,12,2
+Redaccion y exposicion de temas de ingenieria,6,2
+Estructura de datos y algoritmos I,10,2
+Probabilidad,8,3
+Calculo vectorial,8,3
+Ecuaciones diferenciales,8,3
+Cultura y comunicacion,2,3
+Estructura de datos y algoritmos II,10,3
+Programacion orientada a objetos,10,3
+Fundamentos de estadistica,8,4
+Electricidad y magnetismo,10,4
+Analisis numerico,8,4
+Matematicas avanzadas,8,4
+Estructuras discretas,8,4
+Estructura y programacion de computadoras,8,5
+Dispositivos electronicos,10,5
+Lenguajes formales y automatas,8,5
+Señales y Sistemas,8,5
+Ingenieria de software,8,5
+Sistemas operativos,8,6
+Diseño digital moderno,10,6
+Bases de datos,14,6
+Circuitos electronicos,8,6
+Administracion de proyectos de software,8,6
+Finanzas en la ingenieria en computacion,6,7
+Diseño digital VLSI,8,7
+Inteligencia artificial,8,7
+Compiladores,8,7
+Sistemas de comunicaciones,8,7
+Introduccion a la economia,8,7
+Liderazgo,6,8
+Microcomputadoras,8,8
+Computacion grafica e interaccion humano-computadora,10,8
+Etica profesional,6,8
+Redes de datos seguras,14,8
+Ciencia Tecnologia y Sociedad,4,8
+Organizacion y arquitectura de computadoras,8,9
+Recursos y necesidades de Mexico,8,9
+Fundamentos de Sistemas embebidos,8,9
+Sistemas distribuidos,8,9
+Bases de datos avanzadas,8,10
+Criptografia,8,10
