@@ -3,17 +3,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package registroalumnos;
+
+
 import java.io.RandomAccessFile; // 
 import java.util.Random; // Numeros aleatorios
-
 import java.io.IOException; // Excepciones
-
-/**
- *
- * @author eduar
- */
 public class GenNombres {
     
+    /**
+     * Metodo que genera aleatoreamente la edad de los alumnos de entre 18 y 28 años
+     * @return regresa la edad de los alumnos
+     */
     public static Integer generadorEdad(){
         Random random = new Random();
         // Generar edades entre 18 y 27 
@@ -24,6 +24,11 @@ public class GenNombres {
 
 
     // Genera un alumno con su nombre y apellidos
+    /**
+     * Método que genera datos de un alumno con los archivos .txt
+     * @param id parametro identificador del alumno
+     * @return regresa un alumno con nombre, direccion, edad, promedio, num. inscripcion, num cuenta y semestre
+     */
     public static Alumno generarAlumno(Integer id){
         Alumno alumno = new Alumno(id);
         alumno.setNumeroCuenta(); // Genera un numero de cuenta
@@ -40,10 +45,10 @@ public class GenNombres {
         // 0 : Hombre      1 : Mujer
         if (numAleatorio == 0){
             //System.out.println("Es hombre");
-            rutaArchivo = "nombreH.txt";
+            rutaArchivo = "src/nombreH.txt";
         }else{
             //System.out.println("Es mujer");
-            rutaArchivo = "nombreM.txt";
+            rutaArchivo = "src/nombreM.txt";
         }
 
         
@@ -63,7 +68,7 @@ public class GenNombres {
         }
         
         /* Genera los apellidos del alumno */
-        rutaArchivo = "apellidos.txt";
+        rutaArchivo = "src/apellidos.txt";
         
         // Primer apellido
         numAleatorio = random.nextInt(50) + 1; // Genera numero aleatorio del 1 al 50
