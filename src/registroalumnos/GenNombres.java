@@ -3,7 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package registroalumnos;
-
+/**
+*
+* @author equipo I
+ */
 
 import java.io.RandomAccessFile; // 
 import java.util.Random; // Numeros aleatorios
